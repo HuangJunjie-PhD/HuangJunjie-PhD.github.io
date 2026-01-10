@@ -11,12 +11,15 @@ Junjie Huang is a Ph.D candidate at the [COMPASS Lab](https://compass.sustech.ed
 Education
 ======
 D.Eng. Candidate, [COMPASS Lab](https://compass.sustech.edu.cn/), Southern University of Science and Technology (SUSTech), 2024 - Present
+- Doctoral supervisor: Prof. [Fengwei Zhang](https://fengweiz.github.io/)
 - Major in Computer Science and Technology
 - Outstanding Graduate Student 2024-2025
 - Academic Star, College of Engineering 2024-2025
 
 B.Eng. [智能计算与信息处理教育部重点实验室](https://icip.xtu.edu.cn/sysjj.htm), Xiangtan University, 2021 - 2024
+- Master's supervisor: Prof. [Xieping Gao](https://mc.hunnu.edu.cn/info/1602/6102.htm), Prof. [Shuhua Deng](https://jwxy.xtu.edu.cn/info/1148/3003.htm)
 - Major in Computer Technology
+- Master's thesis: Research on Link Flooding Attack Proactive Defense Based on Software-Defined Networking(https://kns.cnki.net/kcms2/article/abstract?v=weCMZZjTuL3UQGuJ5A-iBA7IfF8I9qd5-RvR5xruPeh5WdMoTnziM2nbejAEcxlOUoO2KiiTPA22qTzCrBQbJJNgrkgjLH1xnHVXpuq4YkrS34hdunEPBslRSIKTbOP0X7wHsl85Dl5NSKdIu-PDRQuB6L908jUicSedBRDkl3L5vZ5glI0s-IiloYfm75TZ&uniplatform=NZKPT&language=CHS)
 
 D.Eng. [School of Computer Science](https://jwxy.xtu.edu.cn/), Xiangtan University, 2017 - 2021
 - Major in Computer Science and Technology
