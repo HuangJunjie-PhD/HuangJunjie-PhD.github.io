@@ -19,7 +19,11 @@ D.Eng. Candidate, [COMPASS Lab](https://compass.sustech.edu.cn/), Southern Unive
 B.Eng. [智能计算与信息处理教育部重点实验室](https://icip.xtu.edu.cn/sysjj.htm), Xiangtan University, 2021 - 2024
 - Master's supervisor: Prof. [Xieping Gao](https://mc.hunnu.edu.cn/info/1602/6102.htm), Prof. [Shuhua Deng](https://jwxy.xtu.edu.cn/info/1148/3003.htm)
 - Major in Computer Technology
-- Master's thesis: Research on Link Flooding Attack Proactive Defense Based on Software-Defined Networking(https://kns.cnki.net/kcms2/article/abstract?v=weCMZZjTuL3UQGuJ5A-iBA7IfF8I9qd5-RvR5xruPeh5WdMoTnziM2nbejAEcxlOUoO2KiiTPA22qTzCrBQbJJNgrkgjLH1xnHVXpuq4YkrS34hdunEPBslRSIKTbOP0X7wHsl85Dl5NSKdIu-PDRQuB6L908jUicSedBRDkl3L5vZ5glI0s-IiloYfm75TZ&uniplatform=NZKPT&language=CHS)
+- GPA:3.53/4，3rd
+- Master's thesis: Research on Link Flooding Attack Proactive Defense Based on Software-Defined Networking
+- Special Academic Scholarship 2023-2024
+- Top Ten Singers on Campus 2023
+- Vice Director of Vocal Department of Xiangtan University School Art Group 2022-2023
 
 D.Eng. [School of Computer Science](https://jwxy.xtu.edu.cn/), Xiangtan University, 2017 - 2021
 - Major in Computer Science and Technology
@@ -29,6 +33,7 @@ Research Interests
 - Confidential computing
 - Accelerator architecture
 - AI System / LLM Acceleration
+- Network Security
 
 News
 ======
