@@ -2,8 +2,8 @@
 title: "SoK: Analysis of Accelerator TEE Designs"
 collection: publications
 category: conferences
-permalink: /publication/2025-12-03-SoK-Analysis-of-Accelerator-TEE-Designs
-date: 2025-12-03
+permalink: /publication/2026-02-22-SoK-Analysis-of-Accelerator-TEE-Designs
+date: 2026-02-22
 paperurl: /files/paper-sok-2026.pdf
 #slidesurl: 
 venue: 'In Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS)'
