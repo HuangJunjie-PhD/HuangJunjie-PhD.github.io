@@ -58,20 +58,6 @@ Selected publications
 
 - SecNPU: SecuringLLM inference on NPU —— 2025, In Proceedings of the 43rd IEEE International Conference on Computer Design (ICCD '25)
 
-Patents
-======
-- A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices (202511294933.0), 2025
-- An Active Defense System for Link Flooding Attack Based on Network Topology Obfuscation (202311675075.5), 2023
-
-Projects
-======
-- National Natural Science Foundation of China - Joint Fund, U24A6009, Project Participant, Research and Open-source Implementation of Secure Processor Architecture, 01/2025-12/2028, Ongoing
-- National Natural Science Foundation of China - "Ye Qisun" Joint Fund, U254120129, Project Participant, Key Technologies for End Trusted Execution Environment Security, 01/2026-12/2029, Ongoing
-- SUSTech-Ant Middleware Trusted Technology Joint Research Platform (Phase 2, Year 1), Project Developer, TEE Research Based on Arm GPU (Phase 4), 01/2025-12/2027, Completed
-- SUSTech-Ant Middleware Trusted Technology Joint Research Platform (Phase 2, Year 1), Project Developer, Security Enhancement Research for General AI Accelerators, 01/2025-12/2027, Completed
-- SUSTech-Ant Middleware Trusted Intelligent Computing Technology Joint Research Platform (Phase 2, Year 2), Project Developer, Security Enhancement Research for General AI Accelerators (Phase 2), 01/2025-12/2027, In Progress
-- SUSTech-Ant Middleware Trusted Intelligent Computing Technology Joint Research Platform (Phase 2, Year 2), Project Developer, Universal Memory Protection Research for Heterogeneous TEE, 01/2025-12/2027, In Progress
-
 Honors and Awards
 ======
 - Outstanding Graduate Student 2024-2025, College of Engineering, SUSTech
