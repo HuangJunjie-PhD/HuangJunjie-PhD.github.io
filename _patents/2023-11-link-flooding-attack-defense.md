@@ -3,7 +3,6 @@ title: "An Active Defense System for Link Flooding Attack Based on Network Topol
 collection: patents
 layout: single
 patent_number: "202311675075.5"
-notification_number: "2024071600779460"
 applicant: "Xiangtan University"
 inventors: "Shuhua Deng, Junjie Huang, Xieping Gao"
 date: 2023-11-16
@@ -13,8 +12,6 @@ permalink: /patents/2023-11-link-flooding-attack-defense
 ---
 
 Patent Application: **202311675075.5**
-
-**Notification Number**: 2024071600779460
 
 **Chinese Title**: 一种基于网络拓扑混淆的链路泛洪攻击主动式防御系统
 
