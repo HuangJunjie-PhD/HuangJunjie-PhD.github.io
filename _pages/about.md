@@ -58,6 +58,10 @@ Selected publications
 
 - SecNPU: SecuringLLM inference on NPU —— 2025, In Proceedings of the 43rd IEEE International Conference on Computer Design (ICCD '25)
 
+Patents
+======
+- A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices (Patent Application No. 202511294933.0), 2025
+
 Honors and Awards
 ======
 - Outstanding Graduate Student 2024-2025, College of Engineering, SUSTech
