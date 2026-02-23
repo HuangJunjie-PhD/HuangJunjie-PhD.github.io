@@ -1,6 +1,7 @@
 ---
 title: "A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices"
 collection: patents
+layout: single
 patent_number: "202511294933.0"
 applicant: "Zhejiang Ant Middleware Technology Co., Ltd., Southern University of Science and Technology (SUSTech)"
 inventors: "Weixing Hou, Shoumeng Yan, Jie Song, Danqing Tang, Shaohua Du, Jin Zhang, Changxu Ci, Fengwei Zhang, Junjie Huang, Chenxu Wang, Yankai Xu"
@@ -14,7 +15,7 @@ Patent Application: **202511294933.0**
 
 **Title**: A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices
 
-**Applicants**: Zhejiang Ant Middleware Technology Co., Ltd., Southern University of Science and Technology (SUSTech)
+**Applicant**: Zhejiang Ant Middleware Technology Co., Ltd., Southern University of Science and Technology (SUSTech)
 
 **Inventors**: Weixing Hou, Shoumeng Yan, Jie Song, Danqing Tang, Shaohua Du, Jin Zhang, Changxu Ci, Fengwei Zhang, **Junjie Huang**, Chenxu Wang, Yankai Xu
 
