@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Experience"
 permalink: /experience/
 author_profile: true
@@ -7,10 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Experience
-======
-
-## Work Experience
+<h2 id="work-experience">Work Experience</h2>
+<hr />
 
 {% for post in site.experience reversed %}
   {% if post.type == 'work' %}
@@ -18,7 +16,8 @@ Experience
   {% endif %}
 {% endfor %}
 
-## Projects
+<h2 id="projects">Projects</h2>
+<hr />
 
 {% for post in site.experience reversed %}
   {% if post.type == 'project' %}
@@ -26,8 +25,10 @@ Experience
   {% endif %}
 {% endfor %}
 
-## Patents
+<h2 id="patents">Patents</h2>
+<hr />
 
 {% for post in site.patents reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
