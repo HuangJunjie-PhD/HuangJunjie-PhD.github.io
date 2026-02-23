@@ -1,13 +1,13 @@
 ---
-title: "一种基于网络拓扑混淆的链路泛洪攻击主动式防御系统"
+title: "An Active Defense System for Link Flooding Attack Based on Network Topology Obfuscation"
 collection: patents
 layout: single
 patent_number: "202311675075.5"
 notification_number: "2024071600779460"
-applicant: "湘潭大学"
-inventors: "邓书华、黄俊杰、高协平"
+applicant: "Xiangtan University"
+inventors: "Shuhua Deng, Junjie Huang, Xieping Gao"
 date: 2023-11-16
-status: "实质审查"
+status: "Substantive Examination"
 substantive_examination_date: 2024-07-16
 permalink: /patents/2023-11-link-flooding-attack-defense
 ---
@@ -16,7 +16,7 @@ Patent Application: **202311675075.5**
 
 **Notification Number**: 2024071600779460
 
-**Title**: An Active Defense System for Link Flooding Attack Based on Network Topology Obfuscation
+**Chinese Title**: 一种基于网络拓扑混淆的链路泛洪攻击主动式防御系统
 
 **Applicant**: Xiangtan University
 
