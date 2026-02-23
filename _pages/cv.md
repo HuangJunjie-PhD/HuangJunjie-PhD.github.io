@@ -30,10 +30,10 @@ Education
 
 Research Interests
 ======
-* Confidential Computing: Secure TEE systems for AI accelerators
-* Accelerator Architecture: TEE design optimization for hardware
-* AI System Security: LLM inference protection on NPUs
-* Network Security: SDN and DDoS defense
+* Confidential computing
+* Accelerator architecture
+* AI system security
+* Network security
 
 Honors and Awards
 ======

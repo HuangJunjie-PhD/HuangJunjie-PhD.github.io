@@ -18,11 +18,6 @@ D.Eng. Candidate, [COMPASS Lab](https://compass.sustech.edu.cn/), Southern Unive
 - Outstanding Graduate Student 2024-2025
 - Academic Star, College of Engineering 2024-2025
 
-B.E., Xiangtan University, 2017 - 2021
-- Major in Computer Science and Technology
-- Top Ten Singers on Campus 2023
-- Vice Director of Vocal Department of Xiangtan University School Art Group 2022-2023
-
 M.E. [智能计算与信息处理教育部重点实验室](https://icip.xtu.edu.cn/sysjj.htm), Xiangtan University, 2021 - 2024
 - Master's supervisor: Prof. [Xieping Gao](https://mc.hunnu.edu.cn/info/1602/6102.htm), Prof. [Shuhua Deng](https://jwxy.xtu.edu.cn/info/1148/3003.htm)
 - Major in Computer Technology
@@ -30,15 +25,21 @@ M.E. [智能计算与信息处理教育部重点实验室](https://icip.xtu.edu.
 - Master's thesis: Research on Link Flooding Attack Proactive Defense Based on Software-Defined Networking
 - Special Academic Scholarship 2023-2024
 
+B.E., Xiangtan University, 2017 - 2021
+- Major in Computer Science and Technology
+- Top Ten Singers on Campus 2023
+- Vice Director of Vocal Department of Xiangtan University School Art Group 2022-2023
+
 Research Interests
 ======
-- **Confidential Computing**: Building secure and efficient TEE systems for AI accelerators
-- **Accelerator Architecture**: Analyzing and optimizing TEE designs for hardware accelerators
-- **AI System Security**: Protecting LLM inference on NPUs and accelerators
-- **Network Security**: Software-defined networking and DDoS defense
+- Confidential computing
+- Accelerator architecture
+- AI system security
+- Network security
 
 News
 ======
+- 2026.2.24, Presented SoK paper at NDSS'26 in San Diego, California, USA
 - 2025.12, Presenting ccAI at [Chinasys 2025](https://chinasys2025.xpy.in/) in Changchun
 - 2025.12, Congratulations to Huang Junjie on being awarded the Academic Star in the College of Engineering's fourth "Engineering Star" Recognition and Selection!
 - 2025.12, Congratulations to Huang Junjie on being awarded the Outstanding Graduate Student 2024-2025 in the College of Engineering Recognition and Selection!
