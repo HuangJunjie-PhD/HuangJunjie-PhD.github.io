@@ -37,6 +37,17 @@ Research Interests
 - AI system security
 - Network security
 
+Work Experience
+======
+- Intern at [Ant Group (蚂蚁集团)](https://www.antgroup.com/), 2025.05 - Present
+  * Confidential computing and system security R&D
+
+Research Projects
+======
+- National Natural Science Foundation of China - Ye Qisun Joint Fund (U254120129)
+- National Natural Science Foundation of China - Joint Fund (U24A6009)
+- SUSTech-Ant Middleware Joint Research Platform (4 projects)
+
 News
 ======
 - 2026.2.24, Presented SoK paper at NDSS'26 in San Diego, California, USA

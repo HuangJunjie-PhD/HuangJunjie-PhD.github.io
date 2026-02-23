@@ -35,6 +35,11 @@ Research Interests
 * AI system security
 * Network security
 
+Work Experience
+======
+* Intern, [Ant Group (蚂蚁集团)](https://www.antgroup.com/), 05/2025 - Present
+  * Working on confidential computing and system security related research and development
+
 Honors and Awards
 ======
 * Outstanding Graduate Student 2024-2025, College of Engineering, SUSTech
