@@ -21,7 +21,37 @@ author_profile: true
 
 {% for post in site.experience reversed %}
   {% if post.type == 'project' %}
-    {% include archive-single.html %}
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+      {% if post.organization %}
+        <p>
+          <strong><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ post.organization }}</strong>
+        </p>
+      {% endif %}
+      {% if post.role %}
+        <p>
+          <strong><i class="fa fa-fw fa-user" aria-hidden="true"></i> {{ post.role }}</strong>
+        </p>
+      {% endif %}
+      {% if post.topic %}
+        <p>
+          <i class="fa fa-fw fa-folder" aria-hidden="true"></i> <strong>Topic:</strong> {{ post.topic }}
+        </p>
+      {% endif %}
+      {% if post.date %}
+        <p>
+          <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | default: "1900-01-01" | date: "%Y" }}</strong>
+        </p>
+      {% endif %}
+      {% if post.status %}
+        <p>
+          <i class="fa fa-fw fa-check-circle" aria-hidden="true"></i> <strong>Status:</strong> {{ post.status }}
+        </p>
+      {% endif %}
+      <p>{{ post.excerpt | default: post.content }}</p>
+    </article>
   {% endif %}
 {% endfor %}
 
