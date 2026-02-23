@@ -43,6 +43,15 @@ Honors and Awards
 * Top Ten Singers on Campus 2023, Xiangtan University
 * Vice Director of Vocal Department, Xiangtan University School Art Group 2022-2023
 
+Projects
+======
+* National Natural Science Foundation of China - Joint Fund (U24A6009), Project Participant
+  * Research and Open-source Implementation of Secure Processor Architecture
+  * 01/2025 - 12/2028 (Ongoing)
+* National Natural Science Foundation of China - "Ye Qisun" Joint Fund (U254120129), Project Participant
+  * Key Technologies for End Trusted Execution Environment Security
+  * 01/2026 - 12/2029 (Ongoing)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}

@@ -62,6 +62,11 @@ Patents
 ======
 - A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices (Patent Application No. 202511294933.0), 2025
 
+Projects
+======
+- National Natural Science Foundation of China - Joint Fund, U24A6009, Project Participant, Research and Open-source Implementation of Secure Processor Architecture, 01/2025-12/2028, Ongoing
+- National Natural Science Foundation of China - "Ye Qisun" Joint Fund, U254120129, Project Participant, Key Technologies for End Trusted Execution Environment Security, 01/2026-12/2029, Ongoing
+
 Honors and Awards
 ======
 - Outstanding Graduate Student 2024-2025, College of Engineering, SUSTech
