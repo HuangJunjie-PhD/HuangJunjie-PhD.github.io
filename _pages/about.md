@@ -40,7 +40,7 @@ Research Interests
 News
 ======
 - 2026.2.24, Presented SoK paper at NDSS'26 in San Diego, California, USA
-- 2025.12, Presenting ccAI at [Chinasys 2025](https://chinasys2025.xpy.in/) in Changchun
+- 2025.12, Presenting ccAI at [Chinasys 2025](https://cnsys-2025winter.jlu.edu.cn/program.htm) in Changchun
 - 2025.12, Congratulations to Huang Junjie on being awarded the Academic Star in the College of Engineering's fourth "Engineering Star" Recognition and Selection!
 - 2025.12, Congratulations to Huang Junjie on being awarded the Outstanding Graduate Student 2024-2025 in the College of Engineering Recognition and Selection!
 - 2025.12, Congratulations on the accepted NDSS'26 paper entitled SoK: Analysis of Accelerator TEE Designs! The Network and Distributed System Security (NDSS) Symposium is a CCF-A Conference, and one of the TOP 4 Conferences of Computer Security. Conference Website:  [NDSS'26](https://www.ndss-symposium.org/ndss2026/)
