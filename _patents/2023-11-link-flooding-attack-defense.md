@@ -1,6 +1,7 @@
 ---
 title: "一种基于网络拓扑混淆的链路泛洪攻击主动式防御系统"
 collection: patents
+layout: single
 patent_number: "202311675075.5"
 notification_number: "2024071600779460"
 applicant: "湘潭大学"
