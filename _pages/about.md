@@ -60,8 +60,8 @@ Selected publications
 
 Patents
 ======
-- A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices (Patent Application No. 202511294933.0), 2025
-- An Active Defense System for Link Flooding Attack Based on Network Topology Obfuscation (Patent Application No. 202311675075.5), 2023
+- A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices (202511294933.0), 2025
+- An Active Defense System for Link Flooding Attack Based on Network Topology Obfuscation (202311675075.5), 2023
 
 Projects
 ======

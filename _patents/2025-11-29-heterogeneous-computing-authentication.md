@@ -1,14 +1,16 @@
 ---
-title: "一种对异构计算设备进行安全认证、密钥交换的方法和装置"
+title: "A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices"
 collection: patents
 patent_number: "202511294933.0"
-applicant: "浙江蚂蚁密算科技有限公司、南方科技大学"
-inventors: "侯伟星、闫守孟、宋捷、唐丹青、杜少华、张晋、慈长旭、张锋巍、黄俊杰、王晨旭、徐延楷"
+applicant: "Zhejiang Ant Middleware Technology Co., Ltd., Southern University of Science and Technology (SUSTech)"
+inventors: "Weixing Hou, Shoumeng Yan, Jie Song, Danqing Tang, Shaohua Du, Jin Zhang, Changxu Ci, Fengwei Zhang, Junjie Huang, Chenxu Wang, Yankai Xu"
 date: 2025-11-29
 permalink: /patents/2025-11-29-heterogeneous-computing-authentication
 ---
 
 Patent Application: **202511294933.0**
+
+**Chinese Title**: 一种对异构计算设备进行安全认证、密钥交换的方法和装置
 
 **Title**: A Method and Apparatus for Secure Authentication and Key Exchange of Heterogeneous Computing Devices
 
