@@ -22,18 +22,18 @@ Education
   * Major: Computer Technology
   * GPA: 3.53/4.0, Ranked 3rd
   * Special Academic Scholarship 2023-2024
-  * Top Ten Singers on Campus 2023
-  * Vice Director of Vocal Department of Xiangtan University School Art Group 2022-2023
 
 * B.E., Xiangtan University, 2017 - 2021
   * Major: Computer Science and Technology
+  * Top Ten Singers on Campus 2023
+  * Vice Director of Vocal Department, Xiangtan University School Art Group 2022-2023
 
 Research Interests
 ======
-* Confidential computing
-* Accelerator architecture
-* AI System / LLM Acceleration
-* Network Security
+* Confidential Computing: Secure TEE systems for AI accelerators
+* Accelerator Architecture: TEE design optimization for hardware
+* AI System Security: LLM inference protection on NPUs
+* Network Security: SDN and DDoS defense
 
 Honors and Awards
 ======
