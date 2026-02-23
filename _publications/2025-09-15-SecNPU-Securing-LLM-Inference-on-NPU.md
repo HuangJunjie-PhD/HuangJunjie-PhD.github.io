@@ -10,3 +10,7 @@ venue: 'In the proceedings of Proceedings of the 43rd IEEE International Confere
 citation: ' Xuanyao Peng,  Yinghao Yang,  Shangjie Pan,  Junjie Huang,  Yujun Liang,  Hang Lu,  Fengwei Zhang,  Xiaowei Li, &quot;SecNPU: Securing LLM Inference on NPU.&quot; In the proceedings of Proceedings of the 43rd IEEE International Conference on Computer Design, 2025.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=SecNPU:+Securing+LLM+Inference+on+NPU){:target="_blank"} for full citation
+
+## My Contribution
+
+Investigating works related to memory protection in accelerator TEE (i.e., Section II of the paper)
