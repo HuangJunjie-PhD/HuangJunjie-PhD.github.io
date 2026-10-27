@@ -45,6 +45,7 @@ Work Experience
 
 Research Projects
 ======
+- National Cyberspace Security Science and Technology Major Project - Next-Generation Confidential Computing Technology System (PI: Prof. Fengwei Zhang)
 - National Natural Science Foundation of China - Ye Qisun Joint Fund (U254120129)
 - National Natural Science Foundation of China - Joint Fund (U24A6009)
 - SUSTech-Ant Middleware Joint Research Platform (4 projects)
@@ -56,6 +57,7 @@ Academic Services
 
 News
 ======
+- 2026.10, The project "Research on Next-Generation Confidential Computing Technology System" (新一代机密计算技术体系研究), led by Prof. Fengwei Zhang, was approved under the third batch of the National Cyberspace Security Science and Technology Major Project (国家网络空间安全国家科技重大专项), with SUSTech as the leading institution (publicly announced on October 26, 2026). Junjie led the writing of the project proposal and the defense presentation.
 - 2026.10, Served as an Artifact Evaluation (AE) reviewer for [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/) in The Hague, The Netherlands
 - 2026.10, Contributed to the compilation of the [Confidential Computing Whitepaper 2026 (《机密计算白皮书（2026）》)](https://www.gccorg.com/article/70/641.html), released by the Global Computing Consortium (GCC) at CGC 2026 in Shenzhen
 - 2026.4, Won second place in the all-around physical fitness competition (individual, graduate group) at SUSTech's Seventh Spring Sports Day 2026

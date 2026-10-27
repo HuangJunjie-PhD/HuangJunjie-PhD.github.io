@@ -51,6 +51,11 @@ Honors and Awards
 
 Projects
 ======
+* National Cyberspace Security Science and Technology Major Project, Core Member
+  * Research on Next-Generation Confidential Computing Technology System
+  * Project leader: Prof. [Fengwei Zhang](https://fengweiz.github.io/)
+  * Led the writing of the project proposal and the defense presentation
+  * 2026 - Present (Approved)
 * National Natural Science Foundation of China - Joint Fund (U24A6009), Project Participant
   * Research and Open-source Implementation of Secure Processor Architecture
   * 01/2025 - 12/2028 (Ongoing)
