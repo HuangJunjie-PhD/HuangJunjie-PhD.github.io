@@ -58,6 +58,7 @@ News
 ======
 - 2026.10, Served as an Artifact Evaluation (AE) reviewer for [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/) in The Hague, The Netherlands
 - 2026.10, Contributed to the compilation of the [Confidential Computing Whitepaper 2026 (《机密计算白皮书（2026）》)](https://www.gccorg.com/article/70/641.html), released by the Global Computing Consortium (GCC) at CGC 2026 in Shenzhen
+- 2026.4, Won second place in the all-around physical fitness competition (individual, graduate group) at SUSTech's Seventh Spring Sports Day 2026
 - 2026.2.24, Presented SoK paper at NDSS'26 in San Diego, California, USA
 - 2025.12, Presenting ccAI at [Chinasys 2025](https://cnsys-2025winter.jlu.edu.cn/program.htm) in Changchun
 - 2025.12, Congratulations to Huang Junjie on being awarded the Academic Star in the College of Engineering's fourth "Engineering Star" Recognition and Selection!
@@ -79,6 +80,7 @@ Selected publications
 
 Honors and Awards
 ======
+- Second Place, All-Around Physical Fitness Competition (Individual, Graduate Group), the Seventh Spring Sports Day 2026, SUSTech
 - Outstanding Graduate Student 2024-2025, College of Engineering, SUSTech
 - Academic Star, College of Engineering 2024-2025, SUSTech
 - Special Academic Scholarship 2023-2024, Xiangtan University

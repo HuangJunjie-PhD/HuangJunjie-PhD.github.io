@@ -42,6 +42,7 @@ Work Experience
 
 Honors and Awards
 ======
+* Second Place, All-Around Physical Fitness Competition (Individual, Graduate Group), the Seventh Spring Sports Day 2026, SUSTech
 * Outstanding Graduate Student 2024-2025, College of Engineering, SUSTech
 * Academic Star, College of Engineering 2024-2025, SUSTech
 * Special Academic Scholarship 2023-2024, Xiangtan University
