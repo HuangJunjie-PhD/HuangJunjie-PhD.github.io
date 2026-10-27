@@ -92,3 +92,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Academic Services
+======
+* Artifact Evaluation Reviewer, [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/) (The Hague, The Netherlands), 2026
+* Contributor, [Confidential Computing Whitepaper 2026 (《机密计算白皮书（2026）》)](https://www.gccorg.com/article/70/641.html), Global Computing Consortium (GCC), 2026

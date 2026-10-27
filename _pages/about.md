@@ -49,8 +49,15 @@ Research Projects
 - National Natural Science Foundation of China - Joint Fund (U24A6009)
 - SUSTech-Ant Middleware Joint Research Platform (4 projects)
 
+Academic Services
+======
+- Artifact Evaluation Reviewer, [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/), 2026
+- Contributor, [Confidential Computing Whitepaper 2026 (《机密计算白皮书（2026）》)](https://www.gccorg.com/article/70/641.html), Global Computing Consortium (GCC), 2026
+
 News
 ======
+- 2026.10, Served as an Artifact Evaluation (AE) reviewer for [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/) in The Hague, The Netherlands
+- 2026.10, Contributed to the compilation of the [Confidential Computing Whitepaper 2026 (《机密计算白皮书（2026）》)](https://www.gccorg.com/article/70/641.html), released by the Global Computing Consortium (GCC) at CGC 2026 in Shenzhen
 - 2026.2.24, Presented SoK paper at NDSS'26 in San Diego, California, USA
 - 2025.12, Presenting ccAI at [Chinasys 2025](https://cnsys-2025winter.jlu.edu.cn/program.htm) in Changchun
 - 2025.12, Congratulations to Huang Junjie on being awarded the Academic Star in the College of Engineering's fourth "Engineering Star" Recognition and Selection!
