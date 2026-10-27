@@ -49,7 +49,6 @@ Research Projects
 - National Natural Science Foundation of China - Ye Qisun Joint Fund (U254120129)
 - National Natural Science Foundation of China - Joint Fund (U24A6009)
 - SUSTech-Ant Middleware Joint Research Platform (5 projects)
-- Ant Group joint research project "Security Enhancement Research for General AI Accelerators (Phase 3)", Project Lead
 
 Academic Services
 ======
