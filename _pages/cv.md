@@ -51,6 +51,9 @@ Honors and Awards
 
 Projects
 ======
+* SUSTech-Ant Middleware Joint Research Platform, Project Lead
+  * Security Enhancement Research for General AI Accelerators (Phase 3)
+  * 10/2026 - Present (In Progress)
 * National Cyberspace Security Science and Technology Major Project, Core Member
   * Research on Next-Generation Confidential Computing Technology System
   * Project leader: Prof. [Fengwei Zhang](https://fengweiz.github.io/)
